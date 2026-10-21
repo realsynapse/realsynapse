@@ -1,7 +1,7 @@
 <h1 align="center">synapse</h1>
 
 <p align="center">
-  Full-stack developer · B.Tech student · building under <b>Crown Lab</b>
+  Full-stack developer ·student · building under <b>Crown Lab</b>
 </p>
 
 <p align="center">
